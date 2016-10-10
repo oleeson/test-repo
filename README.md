@@ -1,2 +1,2 @@
-# test-repo
-This is a test repo for the MSDS6306 class at SMU. 
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
